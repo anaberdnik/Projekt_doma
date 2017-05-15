@@ -1,4 +1,4 @@
-#Nov projekt#
-##Z delom od doma##
+#Moj projekt#
+##Program kalkulator##
 
-Narejen **14.5.2017**, *Ljubljana*
+Začetek dela **15.5.2017**, *Ljubljana*
